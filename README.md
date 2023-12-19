@@ -30,7 +30,7 @@ def circulate():
 ```
 ## Output:
 
-![Alt text](<n variable.png>)
+![Alt text](<Screenshot 2023-12-19 113847.png>)
 
 
 
